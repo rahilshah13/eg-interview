@@ -22,9 +22,9 @@
     O(n) because the number of lines in `sequence_lookup_table.txt`
     grows by 1 as N grows by 1
 
-  Time Complexity Analyis:
-    - O(1) up to N if we have a lookup table.
-    - On the first run:
-        = O(n-1) + O(n-2) = 2*O(n) = O(n)
+  Time Complexity Analysis:
+  - O(1) up to N if we have a lookup table
+  
+    On the first run: O(n-1) + O(n-2) = 2*O(n) = O(n)
   
   - see: `sequence_performance.png` & `car_simulation_plot.png`
