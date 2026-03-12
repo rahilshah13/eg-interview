@@ -1,0 +1,9 @@
+'''
+    Complete sequence_calculator function.
+    - Return the n-th number of the sequence S(n) = 3*S(n-1) - S(n-2), with S(0) = 0 and S(1) = 1.
+    - Should use O(n) space and minimize execution time
+    - (2) Provide time complexity analysis.
+    - (3) Plot the execution time VS N (for n ranging from 0 to 100000).
+    - (4) Confirm that the time complexity curve from (3) matches the claimed time complexity from (2) 
+        by using curve fitting techniques.
+'''
