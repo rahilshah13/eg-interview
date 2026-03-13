@@ -6,6 +6,8 @@
   - Add the Python executeable to your PATH environment variable
   - Run: `python ./car_simulator.py` 
 
+<img width="1200" height="500" alt="image" src="https://github.com/user-attachments/assets/7598ccf6-baf8-494f-b42a-05bbcdbb11c8" />
+
 ### sequence.py:
   I began by writing the outputs of `sequence_calculator(N)` to a .txt file.
   Disk writes are slow, so while I was waiting, I did two things:
@@ -26,8 +28,11 @@
   - O(1) up to N if we have a lookup table
   
     On the first run: O(n-1) + O(n-2) = 2*O(n) = O(n)
+
+  ``
   
-  - see: `sequence_performance.png` & `car_simulation_plot.png`
+  <img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/d1b03305-120e-42e1-b27d-da0e5883c5f9" />
+
 
 ### Retrospective:
 <img width="550" height="187" alt="image" src="https://github.com/user-attachments/assets/46d1e6f0-419d-4026-bbd8-7a98bc8ccc67" />
