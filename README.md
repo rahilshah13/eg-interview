@@ -28,3 +28,7 @@
     On the first run: O(n-1) + O(n-2) = 2*O(n) = O(n)
   
   - see: `sequence_performance.png` & `car_simulation_plot.png`
+
+### Retrospective:
+<img width="550" height="187" alt="image" src="https://github.com/user-attachments/assets/46d1e6f0-419d-4026-bbd8-7a98bc8ccc67" />
+<img width="405" height="100" alt="image" src="https://github.com/user-attachments/assets/bad09356-d8bb-4cbd-955d-051550881c43" />
