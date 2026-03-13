@@ -10,7 +10,7 @@
   I began by writing the outputs of `sequence_calculator(N)` to a .txt file.
   Disk writes are slow, so while I was waiting, I did two things:
   
-  - Asked Claude to port the Python script to a C executeable and used Zig to compile it.
+  - Asked Claude to port the Python script to a C program and used Zig to compile it (`./Generate-Sequence`).
   - Converted the disk-based-look-up-table-function to an in-memory Python dictionary
     - this yielded a fast result for N=100000
 
